@@ -6,5 +6,14 @@
     <description>Recent content on Soho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Andreea Grigoriu is a Ph.D. candidate in Digital Legal Studies who joined the Law and Tech Lab, part of the Faculty of Law.</description>
+    </item>
+    
   </channel>
 </rss>
