@@ -3,6 +3,7 @@ baseURL = "https://example.com"
 title = "Soho"
 languageCode = "en"
 enableInlineShortcodes = true
+publishDir = "docs"
 
 summarylength = 10
 enableEmoji = true
