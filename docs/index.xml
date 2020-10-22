@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andreea Grigoriu</title>
-    <link>/description/</link>
+    <link>https://grigoriuandreea.github.io/</link>
     <description>Recent content on Andreea Grigoriu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/description/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://grigoriuandreea.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>/description/projects/</link>
+      <link>https://grigoriuandreea.github.io/projects/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/description/projects/</guid>
+      <guid>https://grigoriuandreea.github.io/projects/</guid>
       <description>Abusive language on Social Media data: Through the legal looking glass</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/description/about/</link>
+      <link>https://grigoriuandreea.github.io/about/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/description/about/</guid>
+      <guid>https://grigoriuandreea.github.io/about/</guid>
       <description>Andreea Grigoriu is a Ph.D. candidate in Digital Legal Studies who joined the Law and Tech Lab, part of the Faculty of Law.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/description/description/</link>
+      <link>https://grigoriuandreea.github.io/descriptionsh/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/description/description/</guid>
+      <guid>https://grigoriuandreea.github.io/descriptionsh/</guid>
       <description>Andreea Grigoriu is a Ph.D. candidate in Digital Legal Studies who joined the Law and Tech Lab, part of the Faculty of Law.</description>
     </item>
     
